@@ -1,5 +1,5 @@
 # iWeather
-![](http://i.imgur.com/m7CaXQv.png =100x))
+![](http://i.imgur.com/m7CaXQv.png))
 
 # iWeather
 A React Native based weather application for iOS and Android devices
