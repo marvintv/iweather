@@ -12,7 +12,7 @@ I was driven to learn to learn more about mobile developing recently. What bette
 ## How to run
 + Clone this rep `https://github.com/marvintv/iweather.git`
 + `cd iweather`
-+ run `npm install`
++ run `npm install iweather`
 
 + register for an API key at http://openweathermap.org/
 + replace key in `iweather/weatherAPI.js`
