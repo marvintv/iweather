@@ -11,7 +11,7 @@ import {
 import Icon from 'react-native-vector-icons/Ionicons'
 import {fetchWeather} from './weatherAPI'
 import Highlight from 'react-native-highlight-words'
-import Spinner from 'react-native-loading-spinner-overlay';
+
 
 const phrases = {
     Default: {
