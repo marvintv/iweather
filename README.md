@@ -33,4 +33,3 @@ I was driven to learn to learn more about mobile developing recently. What bette
 **Enjoy the app!**
 ------------------
 
-![iweather app](http://i.imgur.com/m7CaXQv.png)
