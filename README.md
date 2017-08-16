@@ -5,7 +5,7 @@ Smaple image of the app: http://i.imgur.com/m7CaXQv.png
 ### Why did I choose to make this app?
 I was driven to learn to learn more about mobile developing recently. What better way to learn when there's the existence of React Native? 
 ### API
- + Climate data and temperatures from the OpenWeatherMap API http://openweathermap.org/
+ + Geo-specific climate data and temperatures from the OpenWeatherMap API http://openweathermap.org/
  + You can see the usage at [iweather/weatherAPI.js](https://github.com/marvintv/iweather/blob/master/weatherAPI.js)
 
 
