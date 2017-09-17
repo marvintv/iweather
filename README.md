@@ -1,6 +1,6 @@
 # iWeather
 A React Native based weather application for iOS and Android devices
-Smaple image of the app: http://i.imgur.com/m7CaXQv.png
+Sample image of the app: http://i.imgur.com/m7CaXQv.png
 
 ### Why did I choose to make this app?
 I was driven to learn to learn more about mobile developing recently. So I decided to make my own weather app, what better way is there to learn?
